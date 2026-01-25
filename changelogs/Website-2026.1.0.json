@@ -3,7 +3,7 @@
   "date": "2026-01-25",
   "version": "2026.1.0",
   "platform": "web",
-  "category": "Release",
+  "category": "release",
   "points": [
     "Neue Website",
     "Fehler bei den Changelogs behoben"

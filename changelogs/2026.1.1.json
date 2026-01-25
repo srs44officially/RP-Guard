@@ -1,12 +1,11 @@
 {
   "title": "Update 2026.1.1",
   "date": "2026-01-25",
-  "version": "v1.0.1",
+  "version": "v1.0.1"
   "platform": "bot",
   "category": "Bugfix",
   "points": [
     "Fehler bei Login behoben",
     "Dashboard lädt jetzt schneller"
-  ],
-  "image": "https://example.com/screenshot.png"
+  ]
 }

@@ -1,0 +1,15 @@
+{
+  "id": "2026.1.0",
+  "date": "2026-01-25",
+  "title": "2026.1.0 – Beta3",
+  "version": "Beta",
+  "platform": "bot",
+  "category": "Feature",
+  "archiv": false
+  "image": "https://raw.githubusercontent.com/DeinName/RP-Guard/main/assets/images/v1.3.png",
+  "points": [
+    "Neues Anti-Raid System",
+    "Verbesserte Logs",
+    "Performance Optimierungen"
+  ]
+}

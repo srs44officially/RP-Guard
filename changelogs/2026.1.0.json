@@ -1,11 +1,12 @@
 {
-  "title": "Update 2026.1.0",
+  "title": "Erster Release: 2026.1.0",
   "date": "2026-01-25",
   "version": "2026.x.x",
   "platform": "bot",
   "category": "Bugfix",
   "points": [
-    "Fehler bei Login behoben",
-    "Dashboard lädt jetzt schneller"
+    "+ Admin Bot Verwaltung",
+    "+  Ban-System",
+    "+ Datenbank"
   ]
 }

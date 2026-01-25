@@ -3,7 +3,7 @@
   "date": "2026-01-25",
   "version": "2026.x.x",
   "platform": "bot",
-  "category": "Bugfix",
+  "category": "Release",
   "points": [
     "Fehler bei Login behoben",
     "Dashboard lädt jetzt schneller"

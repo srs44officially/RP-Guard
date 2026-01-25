@@ -5,7 +5,6 @@
   "platform": "bot",
   "category": "Release",
   "points": [
-    "Fehler bei Login behoben",
-    "Dashboard lädt jetzt schneller"
+    "+ Server Settings"
   ]
 }

@@ -1,0 +1,13 @@
+{
+"title": "Webiste Release 2026.2.0",
+"date": "2026-02-07",
+"version": "2026.x.x",
+"platform": "web",
+"category": "Verbesserung",
+"important": true,
+"author": "Srs_44",
+"points": [
+"Fehler bei den Navigations Bars behoben"
+],
+"link": ""
+}

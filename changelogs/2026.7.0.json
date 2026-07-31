@@ -5,8 +5,8 @@
   "platform": "bot",
   "category": "Release",
   "points": [
-  "+ Versionsnummern setzen sich jetzt aus **Jahr.Monat.Version** zusammen",
-  "+ Neues Ticketsystem (Aktuell noch nicht ganz Fertig aber nutzbar (Bearbeiten und Löschen fehlt sowie Moderator features)",
-  "+ Datenbank Optimieung"
+  "Versionsnummern setzen sich jetzt aus Jahr.Monat.Version zusammen",
+  "Neues Ticketsystem (Aktuell noch nicht ganz Fertig aber nutzbar (Bearbeiten und Löschen fehlt sowie Moderator features)",
+  "Datenbank Optimieung"
   ]
 }

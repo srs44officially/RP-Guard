@@ -4,9 +4,12 @@
   "version": "2026.x.x",
   "platform": "bot",
   "category": "Release",
+  "important": true,
+  "author": "Srs_44",
   "points": [
     "+ Versionsnummern setzen sich jetzt aus **Jahr.Monat.Version** zusammen",
     "+ Neues Ticketsystem (Aktuell noch nicht ganz Fertig aber nutzbar (Bearbeiten und Löschen fehlt sowie Moderator features)",
     "+ Datenbank Optimieung"
-  ]
+  ],
+  "image": "https://rp-guard.srs44.de/assets/RP-Gurard Banner V2.png"
 }

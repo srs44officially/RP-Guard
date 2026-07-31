@@ -1,0 +1,12 @@
+{
+  "title": "Bot Update 2026.7.0",
+  "date": "2026-07-31",
+  "version": "2026.x.x",
+  "platform": "bot",
+  "category": "Release",
+  "points": [
+    "+ Versionsnummern setzen sich jetzt aus **Jahr.Monat.Version** zusammen"
+    "+ Neues Ticketsystem (Aktuell noch nicht ganz Fertig aber nutzbar (Bearbeiten und Löschen fehlt sowie Moderator features)"
+    "+ Datenbank Optimieung"
+  ]
+}

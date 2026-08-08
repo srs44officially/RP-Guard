@@ -1,0 +1,15 @@
+{
+  "title": "Bot Update 2026.8.0",
+  "date": "2026-08-08",
+  "version": "2026.x.x",
+  "platform": "bot",
+  "category": "Release",
+  "important": true,
+  "author": "Srs_44",
+  "points": [
+  "+ Ticketsystem Fertig",
+  "+ Report Tools eingeführt. Man kann jetzt mit Rechtsklick auf einen User / Nachticht Meldungen Schicken"
+  ],
+  "image": "https://rp-guard.srs44.de/assets/RP-Gurard Banner V2.png",
+  "link": "https://discord.gg/zTG8pzTwS4"
+  }
